@@ -9,7 +9,7 @@ Desenvolvido inteiramente em JAVA utilizando a IDE Eclipse. Utilizei uma engine 
 ## Uso
 
 Para testes futuros, utilize o EclipseIDE:
-- Execute a classe Game.java localizada em src/com/main/Game.java.
+- Execute a classe Game.java localizada em Pong/src/pong/Game.java.
 
 ## Propósito do projeto
 
