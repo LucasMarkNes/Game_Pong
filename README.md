@@ -17,4 +17,4 @@ Este projeto foi criado com o propósito de servir como item no meu portfólio e
 
 ## Imgens Prints_Pong
 
-![img_1](https://github.com/LucasMarkNes/Game_Pong/assets/103937259/071a03ab-071e-47dc-9c77-df767431a937)
+![img_1](https://github.com/LucasMarkNes/Game_Pong/assets/103937259/071a03ab-071e-47dc-9c77-df767431a937) 
